@@ -1,0 +1,2 @@
+C:\Users\paulo.cristovam\Documents\Projects\API\APS-2019\Aps-2019\Aps.Infra.Data\obj\Debug\Aps.Infra.Data.csprojAssemblyReference.cache
+C:\Users\paulo.cristovam\Documents\Projects\API\APS-2019\Aps-2019\Aps.Infra.Data\obj\Debug\Aps.Infra.Data.csproj.CoreCompileInputs.cache
